@@ -2,8 +2,8 @@
 
 ## Overview
 
-Designed and simulated a 4-bit R–2R Ladder Digital-to-Analog Converter using a custom two-stage CMOS operational amplifier in Cadence Virtuoso (gpdk180 technology).
-The project demonstrates digital-to-analog conversion using matched resistor networks and validates linearity through transient analysis.
+- Designed and simulated a 4-bit R–2R Ladder Digital-to-Analog Converter using a custom two-stage CMOS operational amplifier in Cadence Virtuoso (gpdk180 technology).
+- The project demonstrates digital-to-analog conversion using matched resistor networks and validates linearity through transient analysis.
 ---
 ## Objectives
 
