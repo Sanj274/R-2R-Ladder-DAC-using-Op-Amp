@@ -1,5 +1,3 @@
-# R–2R Ladder DAC using Two-Stage Operational Amplifier (gpdk180)
-
 ## Overview
 
 - Designed and simulated a 4-bit R–2R Ladder Digital-to-Analog Converter using a custom two-stage CMOS operational amplifier in Cadence Virtuoso (gpdk180 technology).
@@ -32,11 +30,16 @@
 - Second gain stage
 - Designed for 1.8V supply
 
+<img width="970" height="697" alt="Two-stage differential OpAmp" src="https://github.com/user-attachments/assets/802f06b9-287d-4367-8118-00f5550351b4" />
+  
 ### 2.  4-bit R–2R Ladder Network
 
 - Uses only R and 2R resistor values
 - Digital input: 1.8V logic
 - Output taken through Op-Amp for scaling and buffering
+
+  <img width="1120" height="463" alt="R-2R Ladder using OpAmp _1" src="https://github.com/user-attachments/assets/d13ed22a-76bb-4bca-9944-c6ef495d4bd0" />
+
 ---
 
 ## Simulation Setup
